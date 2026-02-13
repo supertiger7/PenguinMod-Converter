@@ -1,0 +1,24 @@
+# PenguinMod File Converter - Python Requirements
+# Python 3.8+ required
+
+# Core dependencies (most are standard library)
+# tkinter is usually included with Python installations
+
+# No external dependencies required!
+# All modules used are from Python standard library:
+# - tkinter (GUI)
+# - zipfile (ZIP handling)
+# - json (JSON parsing)
+# - pathlib (File paths)
+# - threading (Background tasks)
+# - queue (Thread-safe logging)
+# - datetime (Timestamps)
+# - hashlib (MD5 validation)
+# - shutil (File operations)
+# - re (Regular expressions)
+
+# If tkinter is not installed:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# Fedora: sudo dnf install python3-tkinter
+# macOS: Should be included with Python
+# Windows: Should be included with Python
