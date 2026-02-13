@@ -1,13 +1,12 @@
-# YES I VIBECODED THE ENTIRE THING
-## DONT LOOK AT ME NIGHT THAT
-## THIS IS ALL EXPERIMENTAL, IF ISSUE CONTACT
-## DO NOT GIVE FULL TRUST FOR PROJECTS
+# YES I VIBECODED THE ENTIRE THING, DON'T LOOK AT ME LIKE THAT
+## This is all experimental. I would love to fix bugs to make as many issues as you want.
 
-# DO NOT INCLUDE UNDERSCORES IN A SPRITE OR FOLDER NAME
+# <ins>BE CAREFUL WITH YOUR BELOVED PROJECTS; IT CAN BREAK AT ANY TIME.<ins>
 
 # 🐧 PenguinMod File Converter
 
-**Version:** 2.1.1 (Bug Fix Release)  
+**Version:** 2.1.1
+
 **Date:** February 13, 2026  
 **Status:** I think it works well.
 
@@ -25,9 +24,7 @@ PenguinMod Converter
 ├── start.bat                  # Windows launcher
 ├── start.sh                   # Linux/Mac launcher
 ├── requirements.txt           # Dependencies (none needed!)
-├── README.md                  # This file
-├── CHANGELOG.md               # Version history
-└── FIXES_APPLIED.md           # Detailed fix documentation
+└── README.md                  # This file
 ```
 
 ---
